@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Operadores</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_volver">"Volver "</string>
+</resources>
